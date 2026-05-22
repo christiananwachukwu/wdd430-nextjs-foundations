@@ -30,7 +30,7 @@
     "@types/react-dom": "19.0.3"
   },
   "pnpm": {
-    "onlyBuiltDependencies": [
+    "onlyBuiltDependencienpm npm s": [
       "bcrypt",
       "sharp"
     ]
